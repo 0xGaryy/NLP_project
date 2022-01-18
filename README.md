@@ -6,4 +6,5 @@ streamlit run app.py
 
 # .env
 bucket_name=XXXX
-model_file=model.pkl
+
+model_file=XXX
